@@ -23,26 +23,10 @@
 
         <!-- md breakpoint and up-->
         <ul class="hidden md:flex text-black menu menu-horizontal">
-            <li><a href="/platform">Platform</a></li>
-            <li><a href="/runtime">Runtime</a></li>
-            <li><a href="/playground">Playground</a></li>
-            <!--
-            <li>
-                <a href="/">
-                    Community
-                    <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/></svg>
-                </a>
-                <ul class="p-1 shadow-sm bg-slate-700 border-slate-100">
-                    <li class="bg-slate-600"><a href="/discord">Discord</a></li>
-                    <li class="bg-slate-600"><a href="/github">Github</a></li>
-                    <li class="bg-slate-600"><a href="/twitter">Twitter</a></li>
-                    <li class="bg-slate-600"><a href="/instagram">Instagram</a></li>
-                    <li class="bg-slate-600"><a href="/blog">Blog</a></li>
-                    <li class="bg-slate-600"><a href="/tutorials">Tutorials</a></li>
-                </ul>
-            </li>
-            -->
-            <li><button class="p-3 ml-3 mr-5 bg-sky-700 text-white rounded-lg"><strong><a href="/signin">Sign In</a></strong></button></li>
+            <li><a href="/docs">Docs</a></li>
+            <li><a href="/install">Install</a></li>
+            <li><a href="/roadmap">Roadmap</a></li>
+            <li><button class="p-3 ml-3 mr-5 bg-sky-700 text-white rounded-lg"><strong><a href="/playground">Playground</a></strong></button></li>
         </ul>
     </div>
 </div>

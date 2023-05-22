@@ -3,7 +3,7 @@
 <!-- <Logo> -->
 
 <div class="h-14 px-4 text-center">
-    &lt; <span>Chinook</span> /&gt;
+    &lt; <span>rex</span> /&gt;
 </div>
 
 <!-- </Logo> -->
@@ -16,6 +16,6 @@ div {
     color: #000;
 }
 span {
-    color: #3880a1;
+    color: #fbae39;
 }
 </style> 
